@@ -48,7 +48,7 @@ docs: ## generate Sphinx HTML documentation, including API docs
 	sphinx-apidoc -o docs/ aldryn_payments
 	$(MAKE) -C docs clean
 	$(MAKE) -C docs html
-	$(BROWSER) docs/_build/html/index.html
+	$(BROWSER) docs/build/html/index.html
 
 release: clean ## package and upload a release
 	python setup.py sdist upload

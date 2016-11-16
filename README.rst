@@ -5,8 +5,8 @@ aldryn_payments
 .. image:: https://badge.fury.io/py/aldryn-payments.png
     :target: https://badge.fury.io/py/aldryn-payments
 
-.. image:: https://travis-ci.org/tobiaghiraldini/aldryn-payments.png?branch=master
-    :target: https://travis-ci.org/tobiaghiraldini/aldryn-payments
+.. image:: https://travis-ci.org/ninjabit/aldryn-payments.png?branch=master
+    :target: https://travis-ci.org/ninjabit/aldryn-payments
 
 Aldryn Payment is a pluggable django application and aldryn addon that implements a common payment flow with support to multiple payment backends.
 
