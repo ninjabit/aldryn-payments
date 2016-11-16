@@ -37,7 +37,7 @@ setup(
     long_description=readme + '\n\n' + history,
     author='Tobia Ghiraldini',
     author_email='tobia.ghiraldini@ninjabit.com',
-    url='https://github.com/tobiaghiraldini/aldryn-payments',
+    url='https://github.com/ninjabit/aldryn-payments',
     packages=[
         'aldryn_payments',
     ],
